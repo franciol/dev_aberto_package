@@ -1,4 +1,4 @@
-# dev_aberto_pacote
+# dev_aberto_package
 Aula 10 de  Desenvolvimento Aberto
 
 
