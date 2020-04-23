@@ -2,4 +2,4 @@
 Aula 10 de  Desenvolvimento Aberto
 
 
-Link do projeto no pypi: https://test.pypi.org/project/dev-aberto-francisco-aveiro/
+Link do projeto no pypi: https://test.pypi.org/project/dev-aberto-franciscocra/
