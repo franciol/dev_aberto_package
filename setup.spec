@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['setup.py'],
-             pathex=['/mnt/Extra/Insper/7Semestre/Desenvolvimento Aberto/dev_aberto_pacote'],
+             pathex=['/mnt/Extra/Insper/7Semestre/Desenvolvimento Aberto/dev_aberto_package'],
              binaries=[],
              datas=[],
              hiddenimports=[],

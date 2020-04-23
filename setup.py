@@ -4,6 +4,8 @@ from setuptools import setup
 
 setup(name='dev_aberto_francisco_aveiro',
     version='0.1',
+    author='francisco aveiro',
+    license='MIT',
     packages=['dev_aberto']
     )
 
